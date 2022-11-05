@@ -1,0 +1,14 @@
+# Linux command list
+- cd
+- ls
+- echo
+- mv
+- mkdir
+- rm
+- pwd
+- touch
+- vim
+- nano
+- grep
+- find
+- cmatrix
