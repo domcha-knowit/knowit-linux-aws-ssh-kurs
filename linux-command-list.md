@@ -11,4 +11,6 @@
 - nano
 - grep
 - find
+- logger
+- ip addr
 - cmatrix
