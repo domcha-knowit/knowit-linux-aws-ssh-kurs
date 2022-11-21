@@ -44,7 +44,7 @@ MacOS/Linux datorer
 # Introduktion:
 
 
-Mentimeter - Gå till menti.com och ange följande kod:  
+Mentimeter - Gå till menti.com och ange följande kod: 1632 0608 
 
 ---
 
