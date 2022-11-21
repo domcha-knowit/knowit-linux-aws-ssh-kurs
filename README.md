@@ -56,16 +56,3 @@ Mentimeter -
 4. Kör kommandot `logger "smurf"`. Detta kommer att skapa ett loggmedelande i systemlogg som finns i /var/log katalogen. I vilken av loggfilerna där hamnade "smurf" meddelandet? 
 
 ---
-
-# Frågor:
-1.
-2. 
-3. 
-4. 
-
----
-# Avslut och utvärdering:
-
-Mentimeter - 
-
----
