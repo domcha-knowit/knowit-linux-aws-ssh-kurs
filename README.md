@@ -32,7 +32,6 @@ MacOS/Linux datorer
 | Azeb      	|          	|
 | Dennis    	|          	|
 | Erik      	|          	|
-| Hussam    	|          	|
 | Johan     	|          	|
 | Patrik    	|          	|
 | Simon     	|          	|
@@ -49,10 +48,76 @@ Mentimeter -
 
 ---
 
+# Linux command list
+
+## Secure Shell
+- ssh
+
+---
+
+## Navigering
+- cd
+- pwd
+- ls
+- clear
+- echo
+- history
+
+---
+
+## Dokumentation
+- man
+- --help
+
+---
+
+## Filhantering
+- touch
+- cat
+- less
+- more
+- mv
+- mkdir
+- rm
+- vim/vi
+- nano
+
+---
+
+## Search
+- grep
+- find
+
+---
+
+## System
+- logger
+- top
+- kill
+- sudo
+- apt update, apt upgrade, apt install
+- cmatrix
+- ping
+- exit
+
+---
+
+## Behörighet
+- chown
+- chmod
+
+---
+
 # Övningar:
 1. Skapa ny mapp "Cookies" i hemkatalogen. Skapa ytterligare en mapp "Cakes" i hemkatalogen.
 2. Gå till mappen Cookies och skapa en textfil som får heta "chocolate-cookie.md" i valfri editor. 
 3. Gå till mappen Cakes och skapa en textfil som får heta "princess-cake.md" i valfri editor.
-4. Kör kommandot `logger "smurf"`. Detta kommer att skapa ett loggmedelande i systemlogg som finns i /var/log katalogen. I vilken av loggfilerna där hamnade "smurf" meddelandet? 
+4. Lägg in lite text i princess-cake.md filen.
+5. Ändra namnet på princess-cake.md till princess-cake.txt
+6. Flytta filen pricess-cake.txt till "Cookies" i hemkatalogen.
+7. Ta bort princess-cake.txt filen från "Cookies" i hemkatalogen.
+8. Kopiera chocolate-cookie.md filen från "Cookies" till "Cakes" katalogen.
+9. Kontrollera att svd.se domänen är uppe och är aktiv.
+10. Kör kommandot `logger "smurf"`. Detta kommer att skapa ett loggmedelande i systemlogg som finns i /var/log katalogen. I vilken av loggfilerna där hamnade "smurf" meddelandet? 
 
 ---
