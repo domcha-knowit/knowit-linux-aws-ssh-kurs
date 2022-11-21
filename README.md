@@ -44,7 +44,7 @@ MacOS/Linux datorer
 # Introduktion:
 
 
-Mentimeter - 
+Mentimeter - Gå till menti.com och ange följande kod:  
 
 ---
 
