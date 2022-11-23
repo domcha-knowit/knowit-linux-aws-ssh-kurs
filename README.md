@@ -28,7 +28,7 @@ MacOS/Linux datorer
 
 | Deltagare 	| AWS host                                            	|
 |-----------	|-----------------------------------------------------	|
-| Axel      	| ec2-16-171-3-213.eu-north-1.compute.amazonaws.com   	|
+| Extra 1      	| ec2-16-171-3-213.eu-north-1.compute.amazonaws.com   	|
 | Azeb      	| ec2-16-170-240-123.eu-north-1.compute.amazonaws.com 	|
 | Dennis    	| ec2-13-53-129-79.eu-north-1.compute.amazonaws.com   	|
 | Erik      	| ec2-13-51-194-242.eu-north-1.compute.amazonaws.com  	|
@@ -39,15 +39,15 @@ MacOS/Linux datorer
 | Patrik    	| ec2-16-171-43-55.eu-north-1.compute.amazonaws.com   	|
 | Simon     	| ec2-16-170-203-241.eu-north-1.compute.amazonaws.com 	|
 | Sofie     	| ec2-16-171-7-76.eu-north-1.compute.amazonaws.com    	|
-| Extra 1   	| ec2-13-49-49-38.eu-north-1.compute.amazonaws.com    	|
-| Extra 2   	| ec2-16-171-15-69.eu-north-1.compute.amazonaws.com   	|
-| Extra 3   	| ec2-16-171-21-9.eu-north-1.compute.amazonaws.com    	|
-| Extra 4   	| ec2-13-51-204-98.eu-north-1.compute.amazonaws.com   	|
-| Extra 5   	| ec2-16-170-235-239.eu-north-1.compute.amazonaws.com 	|
-| Extra 6   	| ec2-13-53-155-152.eu-north-1.compute.amazonaws.com  	|
-| Extra 7   	| ec2-13-51-207-53.eu-north-1.compute.amazonaws.com   	|
-| Extra 8   	| ec2-16-170-251-145.eu-north-1.compute.amazonaws.com 	|
-| Extra 9   	| ec2-13-49-68-251.eu-north-1.compute.amazonaws.com   	|
+| Louise B    	| ec2-13-49-49-38.eu-north-1.compute.amazonaws.com    	|
+| Louise J   	| ec2-16-171-15-69.eu-north-1.compute.amazonaws.com   	|
+| Josefine  	| ec2-16-171-21-9.eu-north-1.compute.amazonaws.com    	|
+| Emil Ö   	| ec2-13-51-204-98.eu-north-1.compute.amazonaws.com   	|
+| Emil T   	| ec2-16-170-235-239.eu-north-1.compute.amazonaws.com 	|
+| Olof   	| ec2-13-53-155-152.eu-north-1.compute.amazonaws.com  	|
+| Frida   	| ec2-13-51-207-53.eu-north-1.compute.amazonaws.com   	|
+| Jennifer   	| ec2-16-170-251-145.eu-north-1.compute.amazonaws.com 	|
+| John   	| ec2-13-49-68-251.eu-north-1.compute.amazonaws.com   	|
 
 ---
 
